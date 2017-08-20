@@ -1,0 +1,7 @@
+E:\projects\moveFolder\moveFolder\bin\Debug\moveFolder.exe
+E:\projects\moveFolder\moveFolder\bin\Debug\moveFolder.pdb
+E:\projects\moveFolder\moveFolder\obj\Debug\moveFolder.Form1.resources
+E:\projects\moveFolder\moveFolder\obj\Debug\moveFolder.Properties.Resources.resources
+E:\projects\moveFolder\moveFolder\obj\Debug\moveFolder.csproj.GenerateResource.Cache
+E:\projects\moveFolder\moveFolder\obj\Debug\moveFolder.exe
+E:\projects\moveFolder\moveFolder\obj\Debug\moveFolder.pdb
