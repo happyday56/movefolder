@@ -5,3 +5,14 @@ E:\projects\moveFolder\moveFolder\obj\Debug\moveFolder.Properties.Resources.reso
 E:\projects\moveFolder\moveFolder\obj\Debug\moveFolder.csproj.GenerateResource.Cache
 E:\projects\moveFolder\moveFolder\obj\Debug\moveFolder.exe
 E:\projects\moveFolder\moveFolder\obj\Debug\moveFolder.pdb
+D:\net_project\moveFolder\moveFolder\bin\Debug\moveFolder.exe
+D:\net_project\moveFolder\moveFolder\bin\Debug\moveFolder.pdb
+D:\net_project\moveFolder\moveFolder\bin\Debug\Quartz.dll
+D:\net_project\moveFolder\moveFolder\bin\Debug\Common.Logging.Core.dll
+D:\net_project\moveFolder\moveFolder\bin\Debug\Common.Logging.dll
+D:\net_project\moveFolder\moveFolder\obj\Debug\moveFolder.csprojResolveAssemblyReference.cache
+D:\net_project\moveFolder\moveFolder\obj\Debug\moveFolder.Form1.resources
+D:\net_project\moveFolder\moveFolder\obj\Debug\moveFolder.Properties.Resources.resources
+D:\net_project\moveFolder\moveFolder\obj\Debug\moveFolder.csproj.GenerateResource.Cache
+D:\net_project\moveFolder\moveFolder\obj\Debug\moveFolder.exe
+D:\net_project\moveFolder\moveFolder\obj\Debug\moveFolder.pdb

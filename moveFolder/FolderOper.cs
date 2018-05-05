@@ -9,7 +9,7 @@ namespace moveFolder
     public class FolderOper
     {
         static string folder = "D:\\wwwroot\\liuxueba\\wwwroot\\uploads\\allimg";
-        static string toFolder = "D:\\res\\uploads\\allimg";
+        static string toFolder = "C:\\res\\uploads\\allimg";
         public static void setFileAccess(string filePath)
         {
             FileInfo fi = new FileInfo(filePath);

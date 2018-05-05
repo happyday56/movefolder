@@ -14,7 +14,7 @@ namespace moveFolder
     public partial class Form1 : Form
     {
         static string folder = "D:\\wwwroot\\liuxueba\\wwwroot\\uploads\\allimg";
-        static string toFolder = "D:\\res\\uploads\\allimg";
+        static string toFolder = "C:\\res\\uploads\\allimg";
 
         public Form1()
         {
